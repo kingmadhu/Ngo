@@ -1,3 +1,3 @@
 # Ngo
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/kingmadhu/Ngo)
+Created for the 2025 Ngo project.
